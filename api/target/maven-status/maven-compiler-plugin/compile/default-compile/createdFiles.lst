@@ -1,0 +1,7 @@
+org/openmrs/module/intelehealthui/Item.class
+org/openmrs/module/intelehealth/IntelehealthConstants.class
+org/openmrs/module/intelehealthui/IntelehealthUIModuleActivator.class
+org/openmrs/module/intelehealthui/api/impl/IntelehealthUIModuleServiceImpl.class
+org/openmrs/module/intelehealthui/api/IntelehealthUIModuleService.class
+org/openmrs/module/intelehealthui/IntelehealthUIModuleConfig.class
+org/openmrs/module/intelehealthui/api/dao/IntelehealthUIModuleDao.class
