@@ -1,0 +1,12 @@
+/Users/amalafrozalam/Intelehealth/intelehealth-ui/omod/src/main/java/org/openmrs/module/intelehealthui/page/controller/ActivePatientsPageController.java
+/Users/amalafrozalam/Intelehealth/intelehealth-ui/omod/src/main/java/org/openmrs/module/intelehealthui/page/controller/PatientSummaryPageController.java
+/Users/amalafrozalam/Intelehealth/intelehealth-ui/omod/src/main/java/org/openmrs/module/intelehealthui/DateUtil.java
+/Users/amalafrozalam/Intelehealth/intelehealth-ui/omod/src/main/java/org/openmrs/module/intelehealthui/helper/BreadcrumbHelper.java
+/Users/amalafrozalam/Intelehealth/intelehealth-ui/omod/src/main/java/org/openmrs/module/intelehealthui/fragment/controller/RecentVisitsIntelehealthFragmentController.java
+/Users/amalafrozalam/Intelehealth/intelehealth-ui/omod/src/main/java/org/openmrs/module/intelehealthui/fragment/controller/diagnosis/EncounterDiagnosesFragmentController.java
+/Users/amalafrozalam/Intelehealth/intelehealth-ui/omod/src/main/java/org/openmrs/module/intelehealthui/web/controller/IntelehealthUIModuleController.java
+/Users/amalafrozalam/Intelehealth/intelehealth-ui/omod/src/main/java/org/openmrs/module/intelehealthui/extension/html/AdminList.java
+/Users/amalafrozalam/Intelehealth/intelehealth-ui/omod/src/main/java/org/openmrs/module/intelehealthui/fragment/controller/DiagnosesFragmentController.java
+/Users/amalafrozalam/Intelehealth/intelehealth-ui/omod/src/main/java/org/openmrs/module/intelehealthui/fragment/controller/UsersFragmentController.java
+/Users/amalafrozalam/Intelehealth/intelehealth-ui/omod/src/main/java/org/openmrs/module/intelehealthui/helper/SimplePatientPageController.java
+/Users/amalafrozalam/Intelehealth/intelehealth-ui/omod/src/main/java/org/openmrs/module/intelehealthui/page/controller/IntelehealthPatientDashboardPageController.java
